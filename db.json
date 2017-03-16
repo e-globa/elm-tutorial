@@ -1,0 +1,10 @@
+{
+  "players": [
+    { "id": "1", "name": "Sally", "level": "top" },
+    { "id": "2", "name": "Lance", "level": "mid" },
+    { "id": "3", "name": "Aki", "level": "bot" },
+    { "id": "4", "name": "Maria", "level": "bot" },
+    { "id": "5", "name": "Julian", "level": "mid" },
+    { "id": "6", "name": "Jaime", "level": "top" }
+  ]
+}
